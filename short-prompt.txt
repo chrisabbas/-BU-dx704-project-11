@@ -1,0 +1,4 @@
+Classify this homeowner request as exactly one of: electrical, plumbing, roofing. Reply with that one lowercase word only.
+
+Request: {query}
+Category:
